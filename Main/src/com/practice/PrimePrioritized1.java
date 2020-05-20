@@ -1,3 +1,5 @@
+package com.practice;
+
 import org.junit.Test;
 
 import java.util.LinkedList;

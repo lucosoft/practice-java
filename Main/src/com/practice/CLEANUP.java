@@ -1,4 +1,4 @@
-//package Main;
+package com.practice;//package Main;
 
 import org.junit.Test;
 
