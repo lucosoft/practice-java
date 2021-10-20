@@ -38,9 +38,9 @@ public class Egg {
         throw new UnsupportedOperationException("Waiting to be implemented.");
     }
 
-//    public Egg() {
-//
-//    }
+    public Egg() {
+
+    }
 
     public Bird hatch() throws Exception {
         if(this.value.equalsIgnoreCase(CHICKEN)){
@@ -55,16 +55,16 @@ public class Egg {
         }
     }
 
-    @Test
-    public void calculate_test1() {
-
-        System.out.println("If you see the same value, then singleton was reused (yay!)" + "\n" +
-                "If you see different values, then 2 singletons were created (booo!!)" + "\n\n" +
-                "RESULT:" + "\n");
-        Egg egg = Egg.getInstance("FOO");
-        Egg anotherSingleton = Egg.getInstance("BAR");
-        System.out.println(egg.value);
-        System.out.println(anotherSingleton.value);
-        assertTrue(true);
-    }
+//    @Test
+//    public void calculate_test1() {
+//
+//        System.out.println("If you see the same value, then singleton was reused (yay!)" + "\n" +
+//                "If you see different values, then 2 singletons were created (booo!!)" + "\n\n" +
+//                "RESULT:" + "\n");
+//        Egg egg = Egg.getInstance("FOO");
+//        Egg anotherSingleton = Egg.getInstance("BAR");
+//        System.out.println(egg.value);
+//        System.out.println(anotherSingleton.value);
+//        assertTrue(true);
+//    }
 }

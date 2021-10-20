@@ -5,44 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0f7d40-49b4-4c7f-8096-ac6a7edada3b" name="Default Changelist" comment="Chicken Egg - not finished">
-      <change afterPath="$PROJECT_DIR$/CodeChef.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnJava/LearnJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/DigiSig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodeChef.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeChef.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/bin/CLEANUP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/bin/GCD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/bin/NumberGuessing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/bin/PrimePrioritized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/bin/testing_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/testing_tool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/data/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/funcionalinterfaces/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/funcionalinterfaces/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/data/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/funcionalinterfaces/StudentDataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/funcionalinterfaces/BiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/funcionalinterfaces/BiConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/learnJava/funcionalinterfaces/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/src/main/java/funcionalinterfaces/ConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/CLEANUP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/CLEANUP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/NumberGuessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/NumberGuessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/PrimePrioritized.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/PrimePrioritized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/PrimePrioritized1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/PrimePrioritized1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/PrimePrioritized2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/PrimePrioritized2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/chickenegg/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/chickenegg/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/chickenegg/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/chickenegg/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/chickenegg/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/chickenegg/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/maxDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/maxDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/pigLatinTranslateExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/pigLatinTranslateExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/com/practice/testing_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnJava/target/LearnJava-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/target/LearnJava-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnJava/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/DigiSig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/DigiSig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/target/Practice-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/Practice-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,63 +70,55 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DigiSig">
-    <configuration name="CLEANUP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.CLEANUP" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.chickenegg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chicken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.chickenegg.Chicken" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.chickenegg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChickenEgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.ChickenEgg" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.chickenegg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigiSig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigiSig" />
+  <component name="RunManager" selected="JUnit.All in CodeChef (1)">
+    <configuration name="DigitalSignature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalSignature" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChickenEgg.calculate_test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Main" />
+    <configuration name="All in CodeChef (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChef" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CodeChef" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChef" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Egg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.chickenegg.*" />
+          <option name="PATTERN" value="chickenegg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.practice" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.ChickenEgg" />
+      <option name="PACKAGE_NAME" value="chickenegg" />
+      <option name="MAIN_CLASS_NAME" value="chickenegg.Egg" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Egg.calculate_test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chickenegg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chickenegg" />
+      <option name="MAIN_CLASS_NAME" value="chickenegg.Egg" />
       <option name="METHOD_NAME" value="calculate_test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -164,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigiSig" />
-        <item itemvalue="Application.Chicken" />
-        <item itemvalue="JUnit.ChickenEgg.calculate_test1" />
-        <item itemvalue="Application.ChickenEgg" />
-        <item itemvalue="Application.CLEANUP" />
+        <item itemvalue="JUnit.All in CodeChef (1)" />
+        <item itemvalue="JUnit.Egg.calculate_test1" />
+        <item itemvalue="JUnit.Egg" />
+        <item itemvalue="JUnit.All in CodeChef" />
+        <item itemvalue="Application.DigitalSignature" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +192,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="ffe17f48-5750-4563-8092-a3211157e6c1">
@@ -259,11 +234,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="ffe17f48-5750-4563-8092-a3211157e6c1" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,11 +261,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="6" />
+          <line>120</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="signedBytes3" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
