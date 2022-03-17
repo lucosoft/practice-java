@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0f7d40-49b4-4c7f-8096-ac6a7edada3b" name="Default Changelist" comment="stack to list - not finished">
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/BouncyCastleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/DigitalSignatureDetached.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeChef.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeChef.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJava/LearnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/LearnJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJava/target/LearnJava-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/target/LearnJava-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJava/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/DigiSig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/DigiSig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/target/Practice-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/Practice-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="ab0f7d40-49b4-4c7f-8096-ac6a7edada3b" name="Default Changelist" comment="stack to list - not finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,12 +63,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\repo\java\CodeChef" />
+      <recent name="C:\repo\java\CodeChef\Practice\src\main\java\funcionalinterfaces" />
+      <recent name="C:\repo\java\CodeChef\LearnJava\src\main\java\funcionalinterfaces" />
       <recent name="C:\repo\java\CodeChef\Practice\src\main\resources" />
       <recent name="C:\repo\java\CodeChef\practice\src\main\java" />
-      <recent name="C:\repo\java\CodeChef\LearnJava\src\main\java" />
-      <recent name="C:\Repo\Lucosoft\CodeChef\Main\src\com\practice" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="funcionalinterfaces" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -94,36 +84,23 @@
       <recent name="firmaDigital" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BouncyCastleService.verifSignData">
+  <component name="RunManager" selected="JUnit.CLEANUP.calculate_test1">
+    <configuration name="CLEANUP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CLEANUP" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DigiSig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigiSig" />
+      <option name="MAIN_CLASS_NAME" value="digital_signature.DigiSig" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitalSignature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DigitalSignature" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitalSignatureWithSignatureSigning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firmaDigital.DigitalSignatureWithSignatureSigning" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firmaDigital.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PKCS7Signer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PKCS7Signer" />
+    <configuration name="maxDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxDifference" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,9 +108,19 @@
     </configuration>
     <configuration name="BouncyCastleService.verifSignData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BouncyCastleService" />
+      <option name="PACKAGE_NAME" value="digital_signature" />
+      <option name="MAIN_CLASS_NAME" value="digital_signature.BouncyCastleService" />
       <option name="METHOD_NAME" value="verifSignData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CLEANUP.calculate_test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CLEANUP" />
+      <option name="METHOD_NAME" value="calculate_test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CLEANUP.calculate_test1" />
+        <item itemvalue="Application.CLEANUP" />
+        <item itemvalue="Application.maxDifference" />
         <item itemvalue="JUnit.BouncyCastleService.verifSignData" />
         <item itemvalue="Application.DigiSig" />
-        <item itemvalue="Application.PKCS7Signer" />
-        <item itemvalue="Application.DigitalSignatureWithSignatureSigning" />
-        <item itemvalue="Application.DigitalSignature" />
       </list>
     </recent_temporary>
   </component>
@@ -290,12 +277,12 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
           <line>120</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
           <line>122</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -310,12 +297,12 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigitalSignature.java</url>
           <line>37</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigitalSignature.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigitalSignature.java</url>
           <line>41</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
@@ -360,12 +347,12 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
           <line>55</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
           <line>51</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>

@@ -1,3 +1,5 @@
+package digital_signature;
+
 import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
@@ -11,7 +13,7 @@ import java.security.cert.X509Certificate;
 import java.security.interfaces.RSAPublicKey;
 import java.util.Base64;
 
-public class DigitalSignature {
+public class DigitalSignatureDetached {
     public static void main(String[] args) throws KeyStoreException, IOException, CertificateException, NoSuchAlgorithmException, InvalidKeyException, SignatureException, UnrecoverableKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
 
         // firma y validacion con certificados locales
@@ -24,7 +26,7 @@ public class DigitalSignature {
         String base64CryptedMessage = "MIIBgwYJKoZIhvcNAQcCoIIBdDCCAXACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAU8wggFLAgEBMCgwFDESMBAGA1UEAwwJYWVsaXphbGRlAhBJRdjkjjLJskC+CIudUaoPMAkGBSsOAwIaBQAwDQYJKoZIhvcNAQEBBQAEggEAaCk/sblVxl3TjpXuctGxjdpnCrK4vUpgOYVH7bZ0jryxZDuViaV7qUCYQHYG944qHdKJHuzUMQFJuILwtDf4gke9Oban/IsPnrrRecBc5FrzeIZk9NPcZPAxroaTBFdU6rQrBwPv35e4WXFIXalsCn0ce9LX5668ADeDnND47xhMr4patxP/0nz3QFiHlTneQ7BOUzzj1TgJOnw8Cz+wkzEKhMlujXcMxVXjh5skWxEkBLg8QRZDLBXlRw85qVjMZNxlIrH8S18otkRBF9+4qUy51zM8VR6mUeLOJrYeZECPrkIcZhyf2eN3OyWABg4jlb0vw0bIR4oX7nF4j9ZMcg==";
         String message = "probando";
 
-        System.out.println("DigitalSignature de message: " + message);
+        System.out.println("digital_signature.DigitalSignature de message: " + message);
 
         PrivateKey privateKey = (PrivateKey) keyStore.getKey("aelizalde", null);
 
@@ -66,7 +68,7 @@ public class DigitalSignature {
         }
         System.out.println("verified: " + verified5);
 
-        System.out.println("fin de DigitalSignature");
+        System.out.println("fin de digital_signature.DigitalSignature");
     }
 
     static byte[] decryptBytes(byte[] cryptedSignedBytes){

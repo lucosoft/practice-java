@@ -1,3 +1,5 @@
+package digital_signature;
+
 import org.json.JSONObject;
 
 import java.io.UnsupportedEncodingException;
