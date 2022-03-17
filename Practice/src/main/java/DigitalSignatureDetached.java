@@ -11,7 +11,7 @@ import java.security.cert.X509Certificate;
 import java.security.interfaces.RSAPublicKey;
 import java.util.Base64;
 
-public class DigitalSignature {
+public class DigitalSignatureDetached {
     public static void main(String[] args) throws KeyStoreException, IOException, CertificateException, NoSuchAlgorithmException, InvalidKeyException, SignatureException, UnrecoverableKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
 
         // firma y validacion con certificados locales

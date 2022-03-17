@@ -51,24 +51,24 @@ public class DigiSig {
         System.out.println(Long.toHexString(buf.getLong()));
         System.out.println(buf.getDouble());
 
-//        try {
-//            DigiSig digiSig = new DigiSig();
-//            JSONObject obj = digiSig.sender();
-//            boolean result = digiSig.receiver(obj);
-//            System.out.println(result);
-//        } catch (NoSuchAlgorithmException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        } catch (InvalidAlgorithmParameterException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        } catch (InvalidKeyException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        } catch (UnsupportedEncodingException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        } catch (SignatureException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        } catch (InvalidKeySpecException ex) {
-//            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
-//        }
+        try {
+            DigiSig digiSig = new DigiSig();
+            JSONObject obj = digiSig.sender();
+            boolean result = digiSig.receiver(obj);
+            System.out.println(result);
+        } catch (NoSuchAlgorithmException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (InvalidAlgorithmParameterException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (InvalidKeyException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SignatureException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (InvalidKeySpecException ex) {
+            Logger.getLogger(DigiSig.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
     private JSONObject sender() throws NoSuchAlgorithmException, InvalidAlgorithmParameterException, InvalidKeyException, UnsupportedEncodingException, SignatureException {
 

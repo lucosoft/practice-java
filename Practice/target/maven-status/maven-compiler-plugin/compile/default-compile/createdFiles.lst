@@ -1,7 +1,9 @@
 PrimePrioritized1.class
 PrimePrioritized.class
+StackToList.class
 GCD.class
 CLEANUP.class
+BouncyCastleService.class
 DigitalSignature.class
 PrimePrioritized2.class
 DigiSig.class
@@ -11,4 +13,5 @@ chickenegg\Bird.class
 chickenegg\Egg.class
 chickenegg\Egg$1.class
 chickenegg\Chicken.class
+DigitalSignatureDetached.class
 NumberGuessing.class
