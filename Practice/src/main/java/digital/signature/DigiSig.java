@@ -1,4 +1,4 @@
-package digital_signature;
+package digital.signature;
 
 import org.json.JSONObject;
 

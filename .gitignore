@@ -4,3 +4,16 @@
 *.xml
 
 *.class
+Practice/target/Practice-1.0-SNAPSHOT.jar
+Practice/target/maven-archiver/pom.properties
+.idea/workspace.xml
+.idea/workspace.xml
+Practice/practice.iml
+Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Practice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+Practice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+Practice/target/Practice-1.0-SNAPSHOT.jar
+Practice/target/surefire-reports/coupon.CouponTest.txt
+Practice/target/surefire-reports/rating.Rating1Test.txt
+Practice/target/surefire-reports/rating.RatingTest.txt

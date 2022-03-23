@@ -1,4 +1,4 @@
-package digital_signature;
+package digital.signature;
 
 import org.bouncycastle.asn1.x500.style.BCStyle;
 import org.bouncycastle.asn1.x500.style.IETFUtils;

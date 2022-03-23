@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,13 +55,18 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorials-master/libraries-security" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo20171204" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\repo\java\CodeChef\Practice\src\main\java" />
+      <recent name="C:\repo\java\CodeChef\Practice\src\main\java\rating1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\repo\java\CodeChef" />
       <recent name="C:\repo\java\CodeChef\Practice\src\main\java\funcionalinterfaces" />
@@ -73,54 +78,89 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="funcionalinterfaces" />
       <recent name="" />
+      <recent name="funcionalinterfaces" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="rating" />
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="coupon" />
+      <recent name="rating" />
       <recent name="" />
       <recent name="firmaDigital" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CLEANUP.calculate_test1">
-    <configuration name="CLEANUP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CLEANUP" />
+  <component name="RunManager" selected="JUnit.CouponTest.givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest">
+    <configuration name="CouponTest.givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigiSig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digital_signature.DigiSig" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxDifference" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BouncyCastleService.verifSignData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="PACKAGE_NAME" value="digital_signature" />
-      <option name="MAIN_CLASS_NAME" value="digital_signature.BouncyCastleService" />
-      <option name="METHOD_NAME" value="verifSignData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coupon" />
+      <option name="MAIN_CLASS_NAME" value="coupon.CouponTest" />
+      <option name="METHOD_NAME" value="givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CLEANUP.calculate_test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Coupon.calculate_test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CLEANUP" />
-      <option name="METHOD_NAME" value="calculate_test1" />
+      <option name="PACKAGE_NAME" value="Coupon_ml" />
+      <option name="MAIN_CLASS_NAME" value="Coupon_ml.Coupon" />
+      <option name="METHOD_NAME" value="calculate_test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coupon.calculate_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coupon.ml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coupon.ml" />
+      <option name="MAIN_CLASS_NAME" value="coupon.ml.Coupon" />
+      <option name="METHOD_NAME" value="calculate_test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rating1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rating" />
+      <option name="MAIN_CLASS_NAME" value="rating.Rating1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rating1Test.givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rating" />
+      <option name="MAIN_CLASS_NAME" value="rating.Rating1Test" />
+      <option name="METHOD_NAME" value="givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CLEANUP.calculate_test1" />
-        <item itemvalue="Application.CLEANUP" />
-        <item itemvalue="Application.maxDifference" />
-        <item itemvalue="JUnit.BouncyCastleService.verifSignData" />
-        <item itemvalue="Application.DigiSig" />
+        <item itemvalue="JUnit.CouponTest.givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" />
+        <item itemvalue="JUnit.Rating1Test.givenUserListWithRatings_whenReduceWithGreaterAgeAccumulator_thenFindsOldest" />
+        <item itemvalue="JUnit.Rating1Test" />
+        <item itemvalue="JUnit.Coupon.calculate_test3" />
+        <item itemvalue="JUnit.Coupon.calculate_test2" />
       </list>
     </recent_temporary>
   </component>
@@ -277,12 +317,12 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigiSig.java</url>
           <line>120</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigiSig.java</url>
           <line>122</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -293,16 +333,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/CLEANUP.java</url>
-          <line>59</line>
+          <line>29</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigitalSignature.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigitalSignature.java</url>
           <line>37</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigitalSignature.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigitalSignature.java</url>
           <line>41</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
@@ -347,14 +387,72 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigiSig.java</url>
           <line>55</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital_signature/DigiSig.java</url>
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/digital/signature/DigiSig.java</url>
           <line>51</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/couponml/Coupon.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/couponml/Coupon.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/couponml/Coupon.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/test/java/rating/Rating1Test.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/rating/Rating.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/rating/Rating.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/rating/Rating.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/rating1/Rating1.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/test/java/rating/Rating1Test.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/rating1/Rating1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/test/java/rating/Rating1Test.java</url>
+          <line>37</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.security.NoSuchProviderException" package="java.security" />
@@ -367,10 +465,6 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.security.KeyStoreException" package="java.security" />
           <option name="timeStamp" value="62" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.io.FileNotFoundException" package="java.io" />
-          <option name="timeStamp" value="71" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

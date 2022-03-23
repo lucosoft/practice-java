@@ -1,4 +1,4 @@
-package digital_signature;
+package digital.signature;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
